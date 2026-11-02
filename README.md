@@ -1,4 +1,14 @@
-## Hi there 👋
+# 海龟饲料 / wld12314
+
+👉 **我的博客：[wld12314.github.io](https://wld12314.github.io)** —— 作品集与随笔
+
+## 最近在折腾（DSH 插件）
+- [dsh-mind](https://github.com/wld12314/dsh-mind) · 给 DeepSeek Harness 加的心情系统
+- [agent-web-sandbox](https://github.com/wld12314/agent-web-sandbox) · Agent 网页沙箱
+- [dsh-subagent-switch](https://github.com/wld12314/dsh-subagent-switch) · 子代理模型路由
+- [lit-report-ppt](https://github.com/wld12314/lit-report-ppt) · 论文 PDF 转组会 PPT
+
+🎮 游戏动态：[小黑盒主页](https://www.xiaoheihe.cn/bbs/user_profile_share?user_id=46d86acf7530&h_src=heyboxapp)## Hi there 👋
 
 <!--
 **wld12314/wld12314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
