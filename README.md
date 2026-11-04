@@ -6,7 +6,7 @@
 - [dsh-mind](https://github.com/wld12314/dsh-mind) · 给 DeepSeek Harness 加的心情系统：33种心情、跨会话记忆、审美品味库、日记、主动开口
 - [agent-web-sandbox](https://github.com/wld12314/agent-web-sandbox) · Agent 网页沙箱，用于防止上下文污染和提示词注入
 - [dsh-subagent-switch](https://github.com/wld12314/dsh-subagent-switch) · 子代理自动读取并选择最佳模型，意图节省token以及模仿CAS
-- [lit-report-ppt](https://github.com/wld12314/lit-report-ppt) · 论文 PDF 转汇报PPT加逐页讲解稿。抽文本、裁图、排版、自检全自动
+- [lit-report-ppt](https://github.com/wld12314/lit-report-ppt) · 论文 PDF 转汇报PPT加逐页讲解稿：抽文本、裁图、排版、自检全自动
 
 🎮 游戏动态：[小黑盒主页](https://www.xiaoheihe.cn/bbs/user_profile_share?user_id=46d86acf7530&h_src=heyboxapp)## Hi there 👋
 
