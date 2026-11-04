@@ -6,7 +6,7 @@
 - [dsh-mind](https://github.com/wld12314/dsh-mind) · 给 DeepSeek Harness 加的心情系统
 - [agent-web-sandbox](https://github.com/wld12314/agent-web-sandbox) · Agent 网页沙箱
 - [dsh-subagent-switch](https://github.com/wld12314/dsh-subagent-switch) · 子代理模型路由
-- [lit-report-ppt](https://github.com/wld12314/lit-report-ppt) · 论文 PDF 转组会 PPT
+- [lit-report-ppt](https://github.com/wld12314/lit-report-ppt) · 论文 PDF 转汇报PPT加逐页讲解稿
 
 🎮 游戏动态：[小黑盒主页](https://www.xiaoheihe.cn/bbs/user_profile_share?user_id=46d86acf7530&h_src=heyboxapp)## Hi there 👋
 
