@@ -2,7 +2,7 @@
 
 👉 **我的博客：[ashenseeker.github.io](https://ashenseeker.github.io)** —— 作品集与随笔
 
-## 最近在折腾（DSH 插件）
+## 最近在折腾
 - [dsh-mind](https://github.com/AshenSeeker/dsh-mind) · 给 DeepSeek Harness 加的心情系统：33种心情、跨会话记忆、审美品味库、日记、主动开口
 - [agent-web-sandbox](https://github.com/AshenSeeker/agent-web-sandbox) · Agent 网页沙箱，用于防止上下文污染和提示词注入
 - [dsh-subagent-switch](https://github.com/AshenSeeker/dsh-subagent-switch) · 子代理自动读取并选择最佳模型，意图节省token以及模仿CAS
