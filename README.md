@@ -6,7 +6,7 @@
 - [dsh-mind](https://github.com/AshenSeeker/dsh-mind) · 给 DeepSeek Harness 加的心情系统：33种心情、跨会话记忆、审美品味库、日记、主动开口
 - [agent-web-sandbox](https://github.com/AshenSeeker/agent-web-sandbox) · Agent 网页沙箱，用于防止上下文污染和提示词注入
 - [dsh-subagent-switch](https://github.com/AshenSeeker/dsh-subagent-switch) · 子代理自动读取并选择最佳模型，意图节省token以及模仿CAS
-- [lit-report-ppt](https://github.com/AshenSeeker/lit-report-ppt) · 论文 PDF 转汇报PPT加逐页讲解稿：抽文本、裁图、排版、自检全自动
+- [lit-report-ppt](https://github.com/AshenSeeker/lit-report-ppt) · 论文 PDF 转中文组会文献汇报 PPT（.pptx）+ 逐页讲解稿（.docx）+ 双色答辩预测问答(.html)。抽文本、裁图、排版、自检全自动；前两份同源于 content.json，第三份用 qa.json，材料都出自同一篇论文。版式量自真实汇报稿。
 
 🎮 游戏动态：[小黑盒主页](https://www.xiaoheihe.cn/bbs/user_profile_share?user_id=46d86acf7530&h_src=heyboxapp)## Hi there 👋
 
